@@ -2,25 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://cls.yale.edu/programs/dils</loc></url>
   <url><loc>https://cls.yale.edu/programs/fields</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/subjects-of-instruction/computerscienceandeconomics/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/</loc></url>
   <url><loc>https://math.yale.edu/undergraduates/intro-courses-guide/introductory-courses-sequences</loc></url>
-  <url><loc>https://catalog.yale.edu/search/?P=PHYS%202710</loc></url>
-  <url><loc>https://catalog.yale.edu/search/?P=PHYS%202720</loc></url>
-  <url><loc>https://catalog.yale.edu/search/?P=PHYS%204710</loc></url>
-  <url><loc>https://catalog.yale.edu/search/?P=PHYS%204720</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/calendar/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/majors-in-yale-college/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/programs_certificates/</loc></url>
   <url><loc>https://finaid.yale.edu/contact-information</loc></url>
   <url><loc>http://catalog.yale.edu/undergraduate-regulations/regulations/housing/</loc></url>
   <url><loc>https://housing.yale.edu/undergraduate-housing</loc></url>
   <url><loc>https://studyabroad.yale.edu/apply</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/table-of-acceleration-credit/</loc></url>
   <url><loc>https://registrar.yale.edu/forms-petitions</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/final-examination-schedules/</loc></url>
   <url><loc>https://sas.yale.edu/</loc></url>
   <url><loc>https://cls.yale.edu/students/language-requirement</loc></url>
   <url><loc>https://summer.yale.edu/</loc></url>
@@ -30,16 +17,8 @@
   <url><loc>https://advising.yalecollege.yale.edu/declaring-major</loc></url>
   <url><loc>https://college.yale.edu/academics/directory-of-duses-assistants-and-registrars</loc></url>
   <url><loc>https://advising.yalecollege.yale.edu/your-adviser-advising/how-prepare-meetings-your-college-adviser-and-other-advising-meetings</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/course-credits-course-loads/</loc></url>
   <url><loc>https://registrar.yale.edu/registration/yale-college-registration/understanding-and-using-registration-canvas-worksheets</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/registration-enrollment-courses/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/withdrawal-from-courses/</loc></url>
   <url><loc>https://catalog.yale.edu/dus/distributional-requirements/bachelors-degree/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/requirements-for-ba-bs-degree/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/acceleration-policies/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/grades/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/yale-college/special-academic-resources</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/completion-of-course-work/</loc></url>
   <url><loc>https://college.yale.edu/getting-help/yale-college-community-care-yc3</loc></url>
   <url><loc>https://poorvucenter.yale.edu/writing/yale-college-writing-center/writing-partners</loc></url>
   <url><loc>https://poorvucenter.yale.edu/learning/help-with-stem/stem-tutoring</loc></url>
@@ -50,11 +29,9 @@
   <url><loc>https://registrar.yale.edu/registration/yale-college-registration/how-yale-college-students-register-for-classes</loc></url>
   <url><loc>https://registrar.yale.edu/registration/registration-faqs</loc></url>
   <url><loc>https://advising.yalecollege.yale.edu/your-adviser-advising/summer-peer-advising-incoming-first-years</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/transfer-students/</loc></url>
   <url><loc>https://yalecollege.yale.edu/first-year-and-new-student-resources/transfer-students-orientation-advising</loc></url>
   <url><loc>https://college.yale.edu/communities/student-leadership/transfer-counselors-trocos</loc></url>
   <url><loc>https://catalog.yale.edu/dus/dus-department/transfer-reinstated-students/</loc></url>
-  <url><loc>https://catalog.yale.edu/ycps/academic-regulations/eli-whitney-students-program/</loc></url>
   <url><loc>https://catalog.yale.edu/dus/dus-department/eli-whitney/</loc></url>
   <url><loc>https://poorvucenter.yale.edu/learning/academic-strategies</loc></url>
   <url><loc>https://college.yale.edu/welcome-yale-college/first-year-curricular-fair</loc></url>
@@ -64,8 +41,6 @@
   <url><loc>https://yalecollege.yale.edu/getting-help/yale-college-community-care</loc></url>
   <url><loc>https://college.yale.edu/communities/student-leadership/peer-liaisons</loc></url>
   <url><loc>https://courses.yale.edu</loc></url>
-  <url><loc>http://next.catalog.yale.edu/ycps/academic-regulations/requirements-for-ba-bs-degree/</loc></url>
-  <url><loc>http://next.catalog.yale.edu/ycps/academic-regulations/reading-period-final-examination-period/</loc></url>
   <url><loc>https://yalecollege.yale.edu/first-year-and-new-student-resources/placement-exams-and-information</loc></url>
   <url><loc>https://educationstudies.yale.edu/</loc></url>
   <url><loc>https://jackson.yale.edu/academics/human-rights-certificate/</loc></url>
